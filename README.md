@@ -1,4 +1,4 @@
-# Hi there, I'm Wassime! 👋
+# Hi there, I'm Yassine ! 👋
 
 ## 🚀 About Me
 I'm a passionate 19-year-old aspiring software engineer. My journey in coding started when I was 16, learning HTML, CSS, JavaScript, and jQuery. Now, I'm enrolled in the ALX Software Engineering program, diving deep into shell scripting, Bash, C language, Python, and APIs. Coding is not just my interest; it's my life. My ultimate goal is to become a renowned software engineer.
